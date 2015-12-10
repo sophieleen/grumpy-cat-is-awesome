@@ -1,0 +1,8 @@
+title: "Grumpy Cat is Awesome!"
+description: "The official website of the Cape Elizabeth Grumpy Cat Fan Club"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"      
