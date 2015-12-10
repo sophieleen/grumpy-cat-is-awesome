@@ -1,3 +1,10 @@
 ---
 layout: textfile
 ---
+
+Technologies
+------------
+
+HTML5-Reset
+https://github.com/murtaugh/html5-reset
+For the reset css
