@@ -4,3 +4,19 @@
 @import "reset";
 @import "variables";
 
+body{
+  color: $color;
+  background-color: $background-color;
+  text-align: center;
+}
+
+header{
+  a{
+    color: $color;
+    text-decoration: none;
+  }
+}
+
+img[alt$='...awesome']{
+  max-width: 500px;
+}
