@@ -11,3 +11,5 @@ title: The Fan Club Homepage
 ### Facts
 * Grumpy cat was born on April 4, 2012
 * Grumpy is actually a girl
+* Grumpy's real naame is tartar sauce
+* 
