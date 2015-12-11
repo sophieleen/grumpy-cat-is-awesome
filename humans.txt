@@ -1,9 +1,22 @@
 ---
 layout: textfile
 ---
+Credits for Grumpy Cat is Awesome
+=================================
+
+Team
+----
+
+Everything: Sophie & Tom Leen
+Contact: tl -at- thomasleen.com
+URLs: https://github.com/sophieleen https://github.com/tleen
+Location: Cape Elizabeth, Maine
 
 Technologies
 ------------
+
+GitHub Pages
+https://pages.github.com/
 
 HTML5-Reset
 https://github.com/murtaugh/html5-reset
@@ -12,3 +25,7 @@ For the reset css
 Images
 ------
 http://www.huffingtonpost.com/2012/11/02/grumpy-cats-brother-revealed-pokey-only-slightly-less-grumpy_n_2065783.html
+
+Content
+-------
+http://mentalfloss.com/article/53217/16-fun-facts-about-grumpy-cat
