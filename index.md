@@ -4,7 +4,7 @@ title: The Fan Club Homepage
 
 
 
-![Grumpy and Pokey ...awesome](images/grumpy-and-pokey.jpg "Our favorite cats")
+![Grumpy and Pokey ...awesome](images/grumpy-and-pokey.jpg "Our favorite cats ~ class: splash")
 
 **Grumpy Cat and Pokey**
 

@@ -17,6 +17,27 @@ header{
   }
 }
 
-img[alt$='...awesome']{
+h1{
+  font-size: 2.0em;
+  font-weight: bold;
+}
+
+h3{
+  margin: 0.5em 0;
+}
+
+img{
+  margin: 1.0em;
+}
+
+img.splash{
+  border-radius: 5px;
   max-width: 500px;
+}
+
+ul{
+  list-style-type: disc;
+  max-width: 400px;
+  margin: 1.0em auto;
+  text-align: left;
 }
